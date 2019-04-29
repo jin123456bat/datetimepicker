@@ -1,0 +1,10 @@
+.project
+/.settings/
+.buildpath
+/config/
+think
+/runtime/
+.idea/
+/thinkphp/
+/cert/
+sftp-config.json
